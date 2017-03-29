@@ -4,7 +4,7 @@
 <body>
 <H3><center>Kevin's Carrabba's Italian Grill</center></H3></body>
 <hr>
-<p>Home Menu Contact Us</p>
+<p><a href="C:\Users\n0136573\Documents\Repos\Restaurant Menu - Front Page.html">Home</a> <a href="C:\Users\n0136573\Documents\Repos\Restaurant Menu - Middle Page.html">Menu</a> <a href="C:\Users\n0136573\Documents\Repos\Restaurant Menu - Last Page.html">Contact Us</a></p>
 <hr>
 <table style="height: 225px; margin-right: auto; margin-left: auto;" border="0" width="800" cellspacing="0" cellpadding="0">
 <tbody>

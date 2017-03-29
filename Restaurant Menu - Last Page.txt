@@ -4,7 +4,7 @@
 <body>
 <H3><center>Kevin's Carrabba's Italian Grill</center></H3></body>
 <hr>
-<p><a href="https://github.com/kfascetta/hockey/blob/master/Restaurant%20Menu%20-%20Front%20Page.html" target="_blank">Home</a> Menu Contact Us</p>
+<p><a href="C:\Users\n0136573\Documents\Repos\Restaurant Menu - Front Page.html">Home</a> <a href="C:\Users\n0136573\Documents\Repos\Restaurant Menu - Middle Page.html">Menu</a> <a href="C:\Users\n0136573\Documents\Repos\Restaurant Menu - Last Page.html">Contact Us</a></p>
 <hr>
 <form>
 <center>
