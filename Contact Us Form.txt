@@ -1,0 +1,25 @@
+<form action="fakePage.html" method="POST">
+First Name: <input type="text" name="First Name:"></br>
+<br></br>
+Last Name: <input type="text" name="Last Name:"></br>
+<br></br>
+Email: <input type="text" name="Email:"></br>
+<br></br>
+Type of License:<br/>
+<input type="radio" name="answer" value="Business:" checked/>Business<br/>
+<input type="radio" name="answer" value="Personal:"/>Personal<br/>
+<br></br>
+Reason: <select name="Reason:"></br>
+<option value="Select a Reason">Select a Reason</option>
+<option value="Software Support">Software Support</option>
+<option value="Hardware Support">Hardware Support</option>
+<option value="Information Request">Information Request</option>
+</select>
+<br></br>
+Additional Information: <textarea name="Additional Information:"></textarea><br/>
+<br></br>
+<input type="checkbox" name="myChoices" value="I have read the terms of Service."/>I have read the terms of Service.<br/>
+<br></br>
+<input type="submit" value="Send Request"/></br>
+</form>
+    

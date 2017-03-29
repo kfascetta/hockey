@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<title>Kevin's Carrabba's Italian Grill</title>
+<body>
+<H3><center>Kevin's Carrabba's Italian Grill</center></H3>
+<hr>
+<p> Home   Menu   Contact Us</p>
+<hr>
+<center><img src="http://tours.360charlotte.com/2461/logo.gif" />
+<blockquote>Place Holder for Resturant</blockquote>
+</center>
+  <hr>
+  <center><blockquote>123 Main Street, Dover, NH 03824</blockquote>
+    <blockquote>603-245-0330</blockquote></center>
