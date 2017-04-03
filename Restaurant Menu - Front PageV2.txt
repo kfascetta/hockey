@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<title>Kevin's Carrabba's Italian Grill</title>
+<head>
+<link rel="stylesheet" type="text/css" href="restaurantStyles.css">
+</head>
+<body>
+<H3><center>Kevin's Carrabba's Italian Grill</center></H3>
+<hr>
+<p><a href="C:\Users\n0136573\Documents\Repos\Restaurant Menu - Front Page.html">Home</a> <a href="C:\Users\n0136573\Documents\Repos\Restaurant Menu - Middle Page.html">Menu</a> <a href="C:\Users\n0136573\Documents\Repos\Restaurant Menu - Last Page.html">Contact Us</a></p>
+<hr>
+<center><img src="http://tours.360charlotte.com/2461/logo.gif" />
+<blockquote>Place Holder for Resturant</blockquote>
+</center>
+  <hr>
+<center><footer>
+<p>123 Main Street, Dover, NH 03824</p>
+<p>603-245-0330</p>
+</footer></center>
