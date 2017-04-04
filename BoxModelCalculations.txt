@@ -1,0 +1,52 @@
+#div1 {
+
+height: 150px;
+
+width: 400px;
+
+margin: 20px;
+
+border: 1px solid red;
+
+padding: 10px;
+
+}
+.calculateme {
+ margin: 20px;
+ border: 1px solid red;
+ padding: 10px;
+ height: 125px;
+ padding: 10px;
+ border: 1px solid red;
+ margin: 20px;
+}
+Total Height = 20+1+10+125+10+1+20=187px
+
+.calculateme {
+ margin: 20px;
+ border: 1px solid red;
+ padding: 10px;
+ width: 400px;
+ padding: 10px;
+ border: 1px solid red;
+ margin: 20px;
+ }
+ Total Width = 20+1+10+400+10+1+20=462px
+ 
+ .calculateme {
+ border: 1px solid red;
+ padding: 10px;
+height: 125px;
+ padding: 10px;
+ border: 1px solid red;
+ }
+ Browser Calculated Height = 1+10+125+10+1=147px
+ 
+ .calculateme {
+ border: 1px solid red;
+ padding: 10px;
+ width: 400px;
+ padding: 10px;
+ border: 1px solid red;
+ }
+ Browser Calculated Width = 1+10+400+10+1=422px
