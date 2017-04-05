@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<style>
+p.normal {
+    font-weight: normal;
+}
+
+p.light {
+    font-weight: lighter;
+}
+
+p.thick {
+    font-weight: bold;
+}
+
+p.thicker {
+    font-weight: 900;
+}
+</style>
+</head>
+<head>
+<style>
+body {background-color: linen;}
+</style>
+</head>
+<head>
+<link rel="stylesheet" type="text/css" href="restaurantStyles.css">
+</head>
+<title>Kevin's Carrabba's Italian Grill</title>
+<body>
+<head>
+<style>
+p.fantasy {
+font-family: Copperplate, Desdemona, fantasy;
+}
+</style>
+</head>
+<body>
+<H3><center><p class="fantasy">Kevin's Carrabba's Italian Grill</center></H3>
+<hr>
+<head>
+  <title>Bootstrap Case</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.0/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+  <ul class="nav nav-pills">
+    <li><a href="C:\Users\n0136573\Documents\Repos\CSS Labs\Restaurant Menu - Front PageV5.html">Home</a></li>
+    <li><a href="C:\Users\n0136573\Documents\Repos\CSS Labs\Restaurant Menu - Middle PageV5.html">Menu</a></li>
+    <li><a href="C:\Users\n0136573\Documents\Repos\CSS Labs\Restaurant Menu - Last PageV5.html">Contact Us</a></li>    
+  </ul>
+</div>
+<hr>
+<form>
+<center>
+<form action="fakePage.html" method="POST">
+<p class="thick">Name: <input type="text" name="myTextInput" /></p></br>
+<p class="thick">Email: <input type="text" name="myTextInput" /></p></br>
+<p class="thick">Phone: <input type="text" name="myTextInput" /></p></br>
+<p class="thick">Reason for Inquiry:  <select name="Reason for Inquiry:"></br>
+<option value="Catering">Catering</option>
+<option value="Private Party">Private Party</option>
+<option value="Feedback">Feedback</option>
+<option value="Other">Other</option>
+</select></p>
+Additional Information: <textarea name="Additional Information:"></textarea><br/>
+<p class="thick">Have you been to the restaurant?:
+<input type="radio" name="answer" value="No" />No
+<input type="radio" name="answer" value="Yes"/>Yes
+</p></br>
+<p class="thick">Reason for Inquiry: 
+<input type="checkbox" name="myChoices" value="M" unchecked/>M
+<input type="checkbox" name="myChoices" value="T" unchecked/>T
+<input type="checkbox" name="myChoices" value="W" unchecked/>W
+<input type="checkbox" name="myChoices" value="Th" unchecked/>Th
+<input type="checkbox" name="myChoices" value="F" unchecked/>F
+</br>
+<p><input type="submit" value="Send Request"/></p></br>
+<br></br>
+</center>
+</form>
+</br>
+<hr>
+<center><footer>
+<p>123 Main Street, Dover, NH 03824</p>
+<p>603-245-0330</p>
+</footer></center>
